@@ -34,4 +34,7 @@ This app is designed to help users log, analyze, and learn from their mistakes, 
   <img src="https://github.com/user-attachments/assets/a38fcfad-1ef2-4343-9afb-52d08ae4ffb5" width="40%" />
   <img src="https://github.com/user-attachments/assets/9e174735-788d-4332-8c8f-90df367caf90" width="40%" />
 </p>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/5d98a635-850e-482c-8fb6-17f4410da51c" width="100%" />
+</p>
 
