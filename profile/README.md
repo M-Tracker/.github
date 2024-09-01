@@ -1,38 +1,26 @@
-# Mistake Tracker
+# Mistake Tracker (Kotlin)
+This app is designed to help users log, analyze, and learn from their mistakes, providing valuable insights to prevent repeating them in the future.
 
-Mistake Tracker is an Android application designed to help users keep track of their mistakes, learn from them, and ultimately grow. Users can categorize mistakes, add details, and log lessons learned. The app also includes a feature for sharing mistakes anonymously to receive suggestions from others.
+## Key Technologies:
+- MVVM Architecture
+- Room (Local Database)
+- Retrofit (API Calls, JWT Auth)
+- Dependency Injection (Dagger Hilt)
+- Coroutines
+- Services (Data Sync)
+- Broadcast Receiver (Monitoring Internet Connection)
+- RecyclerView
+- WorkManager (To Schedule Data Sync)
+- Jetpack Compose
+- LiveData
 
-## Features
+## Server Side: 
+- Spring Boot (RESTful APIs)
+- PostgreSQL
+- AWS
+- JWT authentication
 
-- **Track Mistakes**: Log and categorize mistakes with details and lessons learned.
-- **Mistake Sharing**: Share mistakes anonymously and get feedback from the community.
-- **RecyclerView**: Displays a list of mistakes with click events handled by the `ClickToOpenDetailActivity` interface.
-- **Custom UI**: Features like `CircleImageView` for user avatars in RecyclerView items.
-- **Firebase Authentication**: Secure login and registration using Firebase.
-
-## Screenshots
-
-*Include screenshots or gifs of your app here.*
-
-## Tech Stack
-
-- **Language**: Kotlin
-- **Architecture**: MVVM (Model-View-ViewModel)
-- **UI**: Jetpack Compose, XML Layouts
-- **Database**: Room
-- **Network**: Retrofit
-- **Coroutines**: Kotlin Coroutines for background operations
-- **Firebase**: Firebase Authentication for login functionality
-
-## Project Structure
-
-```bash
-├── main
-│   ├── activity
-│   ├── fragment
-│   ├── adapter
-│   ├── viewmodel
-│   ├── repository
-│   ├── database
-│   ├── api
-│   └── model
+## Key Features
+- **Offline and Online Functionality:** Log your mistakes and insights offline, and sync data automatically when you are back online.
+- **User Authentication:** Secure login with JWT-based authentication to keep your data safe.
+- **Data Analysis:** Analyze trends and patterns in your mistakes to improve and avoid similar errors in the future.
