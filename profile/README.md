@@ -27,7 +27,7 @@ This app is designed to help users log, analyze, and learn from their mistakes, 
 - 
 ## Iteration 1    
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/38bee7e4-2243-4ee9-9036-ac8882e4fb20" width="100%" />
+<img src= "https://github.com/user-attachments/assets/6a801201-bab2-4591-ba5e-a5bc81a14f1f" width="100%" />
 </p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/d9064320-fff6-4ac5-8e48-e7d61eb0aef2" width="33%" />
