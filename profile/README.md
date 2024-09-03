@@ -24,7 +24,8 @@ This app is designed to help users log, analyze, and learn from their mistakes, 
 - **Offline and Online Functionality:** Log your mistakes and insights offline, and sync data automatically when you are back online.
 - **User Authentication:** Secure login with JWT-based authentication to keep your data safe.
 - **Data Analysis:** Analyze trends and patterns in your mistakes to improve and avoid similar errors in the future.
-  
+- 
+## Iteration 1    
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/38bee7e4-2243-4ee9-9036-ac8882e4fb20" width="100%" />
 </p>
