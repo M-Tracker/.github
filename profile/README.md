@@ -1,4 +1,4 @@
-# Mistake Tracker (Kotlin)
+# ReflectRight – Personal Logging App / Mistake Tracker (Kotlin)
 This app is designed to help users log, analyze, and learn from their mistakes, providing valuable insights to prevent repeating them in the future.
 
 ## Key Technologies:                                                                 
