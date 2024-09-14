@@ -1,5 +1,5 @@
-# ReflectRight – Personal Logging App / Mistake Tracker 
-# (Kotlin & Java)
+#  ReflectRight – Personal Logging App / Mistake Tracker 
+## Programming languages: (Kotlin & Java)
 This app is designed to help users log, analyze, and learn from their mistakes, providing valuable insights to prevent repeating them in the future.
 
 ## Key Technologies:                                                                 
