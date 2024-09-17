@@ -27,7 +27,7 @@ This app is designed to help users log, analyze, and learn from their mistakes, 
 - **Data Analysis:** Analyze trends and patterns in your mistakes to improve and avoid similar errors in the future.
   
 ## Mistake Tracker (GitHub) | Android, Kotlin, Spring Boot
-   ## Android
+## Android
 - Developed an Android app using MVVM architecture with Room for local storage.
 - Integrated Retrofit with JWT for secure API communication.
 - Utilized Dagger Hilt for dependency injection and OkHttp for efficient network calls.
@@ -35,7 +35,7 @@ This app is designed to help users log, analyze, and learn from their mistakes, 
 - Implemented Broadcast Receivers for connectivity monitoring and services for background tasks. o Constructed a CI pipeline, ensuring code  quality with JUnit and Espresso for testing.
 - Applied GsonConverterFactory with Retrofit for efficient JSON parsing and data handling.
 - Handled reactive data with LiveData and built responsive UI components with Jetpack Compose.
-  ## Spring Boot
+## Spring Boot
 - Developed scalable and secure RESTful APIs for the Mistake Tracker application using Spring Boot, PostgreSQL, and Java, adhering to the MVC architecture, and implementing JWT-based authentication. 
 - Integrated Spring Boot with AWS for storage of app-related files in a S3 bucket. 
 
