@@ -26,7 +26,6 @@ This app is designed to help users log, analyze, and learn from their mistakes, 
 - **User Authentication:** Secure login with JWT-based authentication to keep your data safe.
 - **Data Analysis:** Analyze trends and patterns in your mistakes to improve and avoid similar errors in the future.
   
-## Mistake Tracker (GitHub) | Android, Kotlin, Spring Boot
 ## Android
 - Developed an Android app using MVVM architecture with Room for local storage.
 - Integrated Retrofit with JWT for secure API communication.
