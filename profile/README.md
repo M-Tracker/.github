@@ -31,7 +31,8 @@ This app is designed to help users log, analyze, and learn from their mistakes, 
 - Integrated Retrofit with JWT for secure API communication.
 - Utilized Dagger Hilt for dependency injection and OkHttp for efficient network calls.
 - Used Kotlin Coroutines for asynchronous operations and WorkManager for scheduled sync tasks.
-- Implemented Broadcast Receivers for connectivity monitoring and services for background tasks. o Constructed a CI pipeline, ensuring code  quality with JUnit and Espresso for testing.
+- Implemented Broadcast Receivers for connectivity monitoring and services for background tasks.
+- Constructed a CI pipeline, ensuring code  quality with JUnit and Espresso for testing.
 - Applied GsonConverterFactory with Retrofit for efficient JSON parsing and data handling.
 - Handled reactive data with LiveData and built responsive UI components with Jetpack Compose.
 ## Spring Boot
